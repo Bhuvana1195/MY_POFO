@@ -1,0 +1,44 @@
+body{
+   
+    background-image: url("images/Image.jpeg");
+
+    height: 1000px;
+
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: black;
+}
+
+a:hover{
+    
+    background-color: rgb(154, 226, 226);
+ }
+
+#one{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    margin-right: 0%;
+    
+}
+
+#content{
+    margin-top: 200px;
+    font-size: 50px;
+    color:maroon;
+}
+
+#two{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}

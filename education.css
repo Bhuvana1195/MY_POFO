@@ -1,0 +1,44 @@
+body{
+  
+    background-image: url("images/2.jpg");
+}
+
+
+#one{
+  margin-top: 100px;
+  color: rgb(53, 40, 15);
+  font-size: 55px;
+  font-family:Strai
+  
+}
+table {
+ 
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 100px;
+    height: 250px;
+    margin-right: 50px;
+    margin-left: 150px;
+    width:80%;
+    
+   
+    
+  }
+  
+  td, th {
+    
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: rgb(90, 22, 90);
+  }
+
+  
+  #click{
+    position: fixed;
+    color:crimson;
+    background-color: burlywood;
+    border-radius: 30%;
+  }
